@@ -1,0 +1,31 @@
+/* Write your code here: */
+h1,h2{
+    color:blueviolet
+}
+div>p{
+    color:firebrick;
+}
+div li{
+    color: blue;
+}
+ul li{
+    color:burlywood
+}
+li.done{
+  color: seagreen;
+}
+#class{
+     width:100px;
+     height:50x;
+     background-color:red;
+     position:absolute;
+}
+#cf{
+    width:250px;
+    height:250px;
+    background-color:yellow;
+    position:absolute;
+    top:15px;
+    left:15px;
+}
+
